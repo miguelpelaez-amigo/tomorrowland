@@ -1,0 +1,76 @@
+.encabezado-contenedor {
+    background-color: red;
+    height: 50vh;
+    width: 100%;
+    min-height: 400px;
+}
+
+.encabezado-imagen {
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+}
+
+.compra-contenedor {
+    width: 100%;
+    background-color: white;
+    margin-top: 16px;
+    margin-bottom: 16px;
+    padding: 36px;
+    cursor: pointer;
+}
+
+.info-contenedor {
+    background-color: #f7da59;
+    width: 100%;
+    padding-left: 36px;
+    padding-right: 36px;
+    padding-top: 36px;
+    padding-bottom: 36px;
+}
+
+.acceso-contenedor {
+    width: 100%;
+    padding-top: 36px;
+}
+
+.titulo-centro {
+    text-align: center;
+}
+
+.reglas-contenedor {
+    padding-top: 36px;
+    width: 100%;
+}
+
+.compra-contenedor {
+    width: 100%;
+}
+
+.imagen-evento {
+    border-radius: 7%;
+    margin-top: 36px;
+}
+
+.artistas-contenedor {
+    margin-top: 36px;
+    padding-top: 36px;
+    background-color: #f7da59;
+    width: 100%;
+}
+
+.artista-imagen {
+    height: 400px;
+    width: 100%;
+    object-fit: cover;
+    border-radius: 7%;
+    margin-top: 16px;
+}
+
+.entradas-contenedor {
+    margin-top: 36px;
+}
+
+.entradas-lista {
+    margin-top: 36px;
+}
