@@ -74,3 +74,18 @@
 .entradas-lista {
     margin-top: 36px;
 }
+
+.footer-contenedor {
+    margin-top: 36px;
+    padding-top: 36px;
+    padding-bottom: 36px;
+    background-color: #f4f4f4;
+}
+
+.red-social {
+    width: 80px;
+}
+
+.derechos {
+    margin-top: 36px;
+}
